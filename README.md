@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi my friend! 🌈
 
-**nhw649/nhw649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hongwei Niu. You can call me xiaoniu or 🐮🐮.
 
 Here are some ideas to get you started:
 
