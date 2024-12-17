@@ -3,6 +3,6 @@
 
 - **:mortar_board: I’m currently an M.S. student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Institute of Artificial Intelligence, Xiamen University, China.**
 
-- **:books: My research interests include Segmentation, Open-Vocabulary, and Domain Generation.**
+- **:books: My research interests include Open-Vocabulary and Domain Generalization for segmentation task, as well as MultiModal Large Language Models.**
 
 - **:email: How to reach me: [niuhw649@gmail.com](niuhw649@gmail.com).**
